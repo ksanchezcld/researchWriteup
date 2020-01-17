@@ -6,6 +6,7 @@ Table of Contents
 =======================
 
 * [Razer](https://github.com/ESME-Security/researchWriteup/tree/master/Razer)
+* [Smule](https://github.com/ESME-Security/researchWriteup/tree/master/Smule)
 ---
 
 
