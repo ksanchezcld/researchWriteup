@@ -9,7 +9,7 @@
 <h4 align="center">Research report disclosure</h4>
 
 
-Table of Contents
+<h3>Table of Contents</h3>
 =======================
 
 * [Razer](https://github.com/ESME-Security/researchWriteup/tree/master/Razer)
