@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ESME-Security"><img src="https://i.imgur.com/mTfb44T.jpg" alt="ESME Security"></a>
+  <a href="https://github.com/ESME-Security"><img src="https://i.imgur.com/wlwLtKo.png" alt="ESME Security"></a>
   <br>
   ESME Security
   <br>
