@@ -14,7 +14,6 @@
 * [Razer](https://github.com/ESME-Security/researchWriteup/tree/master/Razer)
 * [Smule](https://github.com/ESME-Security/researchWriteup/tree/master/Smule)
 
-[![Follow @snowoverride](https://img.shields.io/twitter/follow/snowoverride?label=Follow+@snowoverride&style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=snowoverride)
 ---
 
 © Copyright 2020, All Rights Reserved | كل الحقوق محفوظة - eSports Middle East
